@@ -19,6 +19,7 @@ const config: Config = {
       },
       colors: {
         neonGreen: "#a3ff12",
+        neonPink: "#ff66cc", // <-- ADD THIS
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {
